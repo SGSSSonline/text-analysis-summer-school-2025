@@ -1,4 +1,4 @@
-# Practical Computational Methods for Social Scientists
+# Text Analysis
 
 ## Resource List
 
@@ -23,14 +23,6 @@ The Summer Institutes in Computational Social Sciences produced a number of exce
 ### Ethics
 
 The Summer Institutes in Computational Social Sciences produced a number of excellent videos on the ethical aspects of computational social science / digital humanities. [Ethics: Part 1](https://sicss.io/overview/ethics-part-1); [Ethics: Part 2](https://sicss.io/overview/ethics-part-2); [Ethics: Additions and Extensions](https://sicss.io/overview/ethics-additions-and-extensions)
-
-### Web-scraping
-
-Lau, S., Gonzalez, J., & Nolan, D. (n.d.). *Principles and Techniques of Data Science*. <a href="https://www.textbook.ds100.org" target=_blank>https://www.textbook.ds100.org</a> <br>
-Note: Chapter 7 covers web technologies but the book is an excellent introduction to quantitative data analysis in Python in general.
-
-Sweigart, A. (2015). *Automate the Boring Stuff with Python*. <a href="https://automatetheboringstuff.com/2e" target=_blank>https://automatetheboringstuff.com/2e</a><br>
-Note: Chapter 12 is a readable treatment of the practical and technical aspects of web-scraping.
 
 ### Python
 

@@ -29,7 +29,7 @@ The training materials can be found in the following folders:
 
 ## Acknowledgements
 
-I am grateful to the Scottish Graduate School of Social Sciences (SGSSS) for funding and organising this course.
+I am grateful to the Scottish Graduate School of Social Science (SGSSS) for funding and organising this course.
 
 ## Further information
 
